@@ -1,0 +1,17 @@
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\bin\Debug\netcoreapp3.1\MQTT_test1.exe
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\bin\Debug\netcoreapp3.1\MQTT_test1.deps.json
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\bin\Debug\netcoreapp3.1\MQTT_test1.runtimeconfig.json
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\bin\Debug\netcoreapp3.1\MQTT_test1.runtimeconfig.dev.json
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\bin\Debug\netcoreapp3.1\MQTT_test1.dll
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\bin\Debug\netcoreapp3.1\MQTT_test1.pdb
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\bin\Debug\netcoreapp3.1\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.csproj.AssemblyReference.cache
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.AssemblyInfoInputs.cache
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.AssemblyInfo.cs
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.csproj.CoreCompileInputs.cache
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.csproj.CopyComplete
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.dll
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.pdb
+C:\Users\ITRI2021\source\repos\MQTT_test1\MQTT_test1\obj\Debug\netcoreapp3.1\MQTT_test1.genruntimeconfig.cache
